@@ -1,0 +1,10 @@
+<p-toast></p-toast>
+<div class="header-container">
+  <div class="brand">
+    <a class="vertical-align" routerLink="/">Accueil</a>
+    <span class="vertical-align welcome-message">{{'HOME.HELLO' | translate}} {{user.firstname || ''}} {{user.lastname || '' | noname}}</span>
+  </div>
+  <div *ngIf="isAdmin()" class="logout">
+    <button (click)="logout()"></button>
+  </div>
+</div>

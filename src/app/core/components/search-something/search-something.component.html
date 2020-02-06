@@ -1,0 +1,14 @@
+<form class="search-form" [formGroup]="searchSomethingForm" (ngSubmit)="runSearch()">
+  <div class="form-group">
+    <input  type="text" formControlName="content" placeholder="Content to search" />
+  </div>
+  <div class="form-group">
+    <input type="text" formControlName="category" placeholder="Category to search" />
+  </div>
+  <div class="form-group">
+    <input type="text" formControlName="tags" placeholder="Tags to search" />
+  </div>
+  <div class="form-group">
+    <button type="submit" [disabled]="!searchSomethingForm.valid">Rechercher</button>
+  </div>
+</form>

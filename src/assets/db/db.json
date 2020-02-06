@@ -1,0 +1,293 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "lastname": "ALLIROL",
+      "firstname": "Elise",
+      "gender": "F",
+      "email": "eallirol@myges.fr",
+      "class": "3AL"
+    },
+    {
+      "id": 2,
+      "lastname": "ANGRAND",
+      "firstname": "Lou",
+      "gender": "M",
+      "email": "angran_l16@myges.fr",
+      "class": "3AL"
+    },
+    {
+      "id": 3,
+      "lastname": "BIENVENU",
+      "firstname": "Jim",
+      "gender": "M",
+      "email": "jbienvenu@myges.fr",
+      "class": "3AL"
+    },
+    {
+      "id": 4,
+      "lastname": "BOILLEAU",
+      "firstname": "Romain",
+      "gender": "M",
+      "email": "rboilleau@myges.fr",
+      "class": "3AL"
+    },
+    {
+      "id": 5,
+      "lastname": "BOUDAOUD",
+      "firstname": "Zinedine",
+      "gender": "M",
+      "email": "boudao_z16@myges.fr",
+      "class": "3AL"
+    },
+    {
+      "id": 6,
+      "lastname": "BOURMIER",
+      "firstname": "Kevin",
+      "gender": "M",
+      "email": "bourmi_k16@myges.fr",
+      "class": "3AL"
+    },
+    {
+      "id": 7,
+      "lastname": "BRAZE",
+      "firstname": "Thomas",
+      "gender": "M",
+      "email": "tbraze@myges.fr",
+      "class": "3AL"
+    },
+    {
+      "id": 8,
+      "lastname": "BRUGNET",
+      "firstname": "Gregory",
+      "gender": "M",
+      "email": "gbrugnet@myges.fr",
+      "class": "3AL"
+    },
+    {
+      "id": 9,
+      "lastname": "BRUYERE",
+      "firstname": "Remi",
+      "gender": "M",
+      "email": "bruyer_r16@myges.fr",
+      "class": "3AL"
+    },
+    {
+      "id": 10,
+      "lastname": "CADET",
+      "firstname": "Yorick",
+      "gender": "M",
+      "email": "ycadet@myges.fr",
+      "class": "3AL"
+    },
+    {
+      "id": 11,
+      "lastname": "CASSOLY",
+      "firstname": "Guillaume",
+      "gender": "M",
+      "email": "gcassoly@myges.fr",
+      "class": "3AL"
+    },
+    {
+      "id": 12,
+      "lastname": "CHABANE",
+      "firstname": "Mississilia",
+      "gender": "F",
+      "email": "mchabane@myges.fr",
+      "class": "3AL"
+    },
+    {
+      "id": 13,
+      "lastname": "CHAMPAUD",
+      "firstname": "Alexandre",
+      "gender": "M",
+      "email": "achampaud@myges.fr",
+      "class": "3AL"
+    },
+    {
+      "id": 14,
+      "lastname": "DESJARDINS",
+      "firstname": "Alexis",
+      "gender": "M",
+      "email": "desjar_a16@myges.fr",
+      "class": "3AL"
+    },
+    {
+      "id": 15,
+      "lastname": "FANECO",
+      "firstname": "Quentin",
+      "gender": "M",
+      "email": "faneco_q16@myges.fr",
+      "class": "3AL"
+    },
+    {
+      "id": 16,
+      "lastname": "FERREIRA DE VIVEIROS",
+      "firstname": "Thomas",
+      "gender": "M",
+      "email": "tferreiradeviveiros@myges.fr",
+      "class": "3AL"
+    },
+    {
+      "id": 17,
+      "lastname": "GOURDON",
+      "firstname": "Valentin",
+      "gender": "M",
+      "email": "vgourdon1@myges.fr",
+      "class": "3AL"
+    },
+    {
+      "id": 18,
+      "lastname": "KETTMUS-FAYAD",
+      "firstname": "Pierre",
+      "gender": "M",
+      "email": "kettmu_p16@myges.fr",
+      "class": "3AL"
+    },
+    {
+      "id": 19,
+      "lastname": "LAURENT",
+      "firstname": "Louis",
+      "gender": "M",
+      "email": "lauren_l16@myges.fr",
+      "class": "3AL"
+    },
+    {
+      "id": 20,
+      "lastname": "LIN",
+      "firstname": "Jing",
+      "gender": "M",
+      "email": "lin_j161@myges.fr",
+      "class": "3AL"
+    },
+    {
+      "id": 21,
+      "lastname": "MARTIN",
+      "firstname": "Kelig",
+      "gender": "M",
+      "email": "kmartin11@myges.fr",
+      "class": "3AL"
+    },
+    {
+      "id": 22,
+      "lastname": "MARTINEZ",
+      "firstname": "Corentin",
+      "gender": "M",
+      "email": "martin_c142@myges.fr",
+      "class": "3AL"
+    },
+    {
+      "id": 23,
+      "lastname": "MAUBERT",
+      "firstname": "Allan",
+      "gender": "M",
+      "email": "amaubert2@myges.fr",
+      "class": "3AL"
+    },
+    {
+      "id": 24,
+      "lastname": "NESTAN",
+      "firstname": "Frantz",
+      "gender": "M",
+      "email": "fnestan@myges.fr",
+      "class": "3AL"
+    },
+    {
+      "id": 25,
+      "lastname": "NISOLE",
+      "firstname": "Bastien",
+      "gender": "M",
+      "email": "nisole_b16@myges.fr",
+      "class": "3AL"
+    },
+    {
+      "id": 26,
+      "lastname": "RHARBAOUI",
+      "firstname": "Rayann",
+      "gender": "M",
+      "email": "rrharbaoui@myges.fr",
+      "class": "3AL"
+    },
+    {
+      "id": 27,
+      "lastname": "RIMBAULT",
+      "firstname": "Jacques",
+      "gender": "M",
+      "email": "rimbau_j15@myges.fr",
+      "class": "3AL"
+    },
+    {
+      "id": 28,
+      "lastname": "ROUVEL",
+      "firstname": "Pauline",
+      "gender": "F",
+      "email": "prouvel@myges.fr",
+      "class": "3AL"
+    },
+    {
+      "id": 29,
+      "lastname": "SERRA",
+      "firstname": "Mathieu",
+      "gender": "M",
+      "email": "serra_m151@myges.fr",
+      "class": "3AL"
+    },
+    {
+      "id": 30,
+      "lastname": "TERRAL",
+      "firstname": "Hugo",
+      "gender": "M",
+      "email": "hterral@myges.fr",
+      "class": "3AL"
+    },
+    {
+      "id": 31,
+      "lastname": "VALDEZ PARDO",
+      "firstname": "Luis",
+      "gender": "M",
+      "email": "valdez_l16@myges.fr",
+      "class": "3AL"
+    },
+    {
+      "id": 32,
+      "lastname": "WANG",
+      "firstname": "Alexandre",
+      "gender": "M",
+      "email": "awang2@myges.fr",
+      "class": "3AL"
+    },
+    {
+      "id": 33,
+      "lastname": "ZHUAND",
+      "firstname": "Patrick Pei",
+      "gender": "M",
+      "email": "zhuang_p16@myges.fr",
+      "class": "3AL"
+    }
+  ],
+  "teachers": [
+    {
+      "id": 1,
+      "lastname": "Arnauld",
+      "firstname": "Timothée",
+      "job": "Consultant IT",
+      "gender": "M",
+      "email": "timothee.arnauld@soat.fr",
+      "phone": "06.75.91.66.29",
+      "birthday": "23/03/1995",
+      "metadatas": {
+        "description": "Consultant IT chez SOAT depuis 2018, en mission chez BNPParibas depuis 6 mois."
+      }
+    },
+    {
+      "lastname": "Briatte",
+      "firstname": "Benoit",
+      "job": "Professeur",
+      "gender": "M",
+      "email": "benoit.briatte@soat.fr",
+      "phone": "06.75.91.66.29",
+      "birthday": "23/03/1995",
+      "id": 2
+    }
+  ]
+}

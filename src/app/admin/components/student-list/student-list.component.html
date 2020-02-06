@@ -1,0 +1,11 @@
+<div class="student-list-container">
+  <p-card *ngFor="let student of students" [header]="getFormattedName(student)" [subheader]="student.class"
+          [style]="{width: '200px'}" styleClass="ui-card-shadow">
+    <p-header>
+      <img appAvatar [gender]="student.gender" />
+    </p-header>
+    <p-footer>
+      Mail: {{student.email}}
+    </p-footer>
+  </p-card>
+</div>

@@ -1,0 +1,20 @@
+.student-list-container{
+  content: '';
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  flex-wrap: wrap;
+  height: 100%;
+  background-color: #C8C8C8;
+  justify-content: center;
+  overflow: auto;
+}
+
+:host ::ng-deep .ui-card-shadow{
+  height: 400px;
+  margin: 10px;
+}
+
+:host ::ng-deep .ui-card-shadow:last-child{
+  margin-bottom: 80px;
+}

@@ -1,0 +1,22 @@
+.navigation-container{
+  height: 60px;
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  background-color: #FFF;
+}
+
+.navigation-container button{
+  height: 20px;
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.navigation-container a{
+  margin-left: 5px;
+  margin-right: 5px;
+  color: #FFF;
+}

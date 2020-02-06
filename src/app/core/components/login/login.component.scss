@@ -1,0 +1,35 @@
+.login-container {
+  height: 100%;
+}
+
+.login-form {
+  background-color: #F8F8F8;
+  border-radius: 3px;
+  padding:30px;
+  text-align: center;
+  font-family: Arial, serif;
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.form-group{
+  margin: 20px;
+  line-height: 30px;
+}
+
+.form-group label{
+  margin-right: 20px;
+}
+
+:host ::ng-deep .form-group input{
+  height: 30px;
+  border-radius: 3px;
+  padding-left: 5px;
+  border: 1px solid #C8C8C8;
+}
+
+.form-group button{
+  height: 30px;
+  width: 200px;
+}

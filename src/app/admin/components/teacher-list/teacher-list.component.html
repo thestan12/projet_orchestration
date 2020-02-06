@@ -1,0 +1,13 @@
+<div class="teacher-list-container">
+  <p-card *ngFor="let teacher of teachers" [header]="getFormattedName(teacher)" [subheader]="teacher.job"
+          [style]="{width: '200px'}" styleClass="ui-card-shadow">
+    <p-header>
+      <img [src]="getImageForGender(teacher)"/>
+    </p-header>
+    <div>{{teacher.metadatas.description}}</div>
+    <p-footer>
+      Mail: {{teacher.email}}
+      Phone: {{teacher.phone}}
+    </p-footer>
+  </p-card>
+</div>
